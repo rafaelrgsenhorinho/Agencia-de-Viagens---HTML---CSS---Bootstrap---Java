@@ -1,4 +1,4 @@
-Exercicio realizado durante o curso RECODEPRO para Desenvolvedor Full Stack, utilizando HTML, CSS e Bootstrap.
+Exercicio realizado durante o curso RECODEPRO para Desenvolvedor Full Stack, utilizando HTML, CSS e Bootstrap e BackEnd com Java.
 
 Site em desenvolvimento para simular uma homepage de uma Agência de Viagens.
 
